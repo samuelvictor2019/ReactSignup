@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samuelvictor2019/ReactSignup/static/css/main.e6c13ad2.css",
+    "main.js": "/samuelvictor2019/ReactSignup/static/js/main.8f1afcc3.js",
+    "index.html": "/samuelvictor2019/ReactSignup/index.html",
+    "main.e6c13ad2.css.map": "/samuelvictor2019/ReactSignup/static/css/main.e6c13ad2.css.map",
+    "main.8f1afcc3.js.map": "/samuelvictor2019/ReactSignup/static/js/main.8f1afcc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8f1afcc3.js"
+  ]
+}
